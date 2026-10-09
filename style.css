@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Paragraph Styling</title>
+    <style>
+        p { color: blue; font-size: 20px; text-align: center; }
+    </style>
+</head>
+<body>
+    <p>Hello! This is my styled paragraph.</p>
+</body>
+</html>
